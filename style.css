@@ -1,0 +1,28 @@
+body{
+	background-color:#2C2C39;
+	color:cyan;
+	font-family: 'Play', sans-serif;
+}
+h1{
+	font-size: 3em;
+}
+
+img{
+	height: 300px;
+	width: 500px;
+	border: 5px ridge blue;
+	padding: 10px;
+	margin: 0px;
+	border-radius: 50px;
+	background-color: black;
+
+
+}
+
+.words{
+	letter-spacing: 1.25em;
+}
+svg{
+	height: 20px;
+	fill: blue;
+}
