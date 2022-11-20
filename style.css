@@ -26,3 +26,16 @@ svg{
 	height: 20px;
 	fill: blue;
 }
+hr{
+	height: 5px;
+	background-color: white
+}
+.contact {
+	text-align: center;
+}
+ul{
+	list-style: none
+}
+.characters{
+	display: flex;
+}
